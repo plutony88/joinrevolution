@@ -1,0 +1,395 @@
+{
+  "settings": {
+    "name": "Join Financial Revolution",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Source Sans Pro",
+        "subtitleFont": "Oxygen",
+        "textFont": "Roboto",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.1",
+    "siteFonts": [],
+    "uniqCompNum": 22,
+    "versionPublish": "4.8.1",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "@PROJECT_PATH@/assets/images/money-576443-small-icon-128x153.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "4",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+                "contentAlign": "left",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "<b>!בעל עסק, עצור</b>",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "text": "<b>תתגיש רק דקה למען העסק שלך</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/woman-801872-1920-1920x1289.jpg",
+                "contentAlign": "right",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "<b>מדובר על שינוי כלכלי</b><br>",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "text": "<b>... שמתקרב בשקט</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dollar-499481-1920-1920x1357.jpg",
+                "contentAlign": "center",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "<b>עסקים שמזהים אותו, זוכים ובגדול</b>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "text": "<b>והעסקים האלה עלולים לרווח כספיים בזכות מידע זאת</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/office-865091-1920-1920x1280.jpg",
+                "contentAlign": "left",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "<b>אנשי שיווק שלנו מתמותתים מהכמויות של עסקים המצטרפים</b>",
+                "overlay": true,
+                "text": "<b>... שרק גובר וגובר</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/startup-849804-1920-1920x1371.jpg",
+                "contentAlign": "center",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "<b>כדי לכם להיות איתנו</b>",
+                "overlay": true,
+                "text": "<b>ועדיין יש הזדמנויות להכנס להיכנס פנימה</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pc-1207886-1920-1920x1280.jpg",
+                "contentAlign": "left",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "<b>​הזמן מתקתק, וזה מגיע</b>",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "text": "<b>המכונה הזאת מופעלת, מתקדמת וצוברת מהירות&nbsp;<br>והכי חשוב, שבעוד חודשיים, היא תביא את המהפך</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/utah-95032-1920-1920x1280.jpg",
+                "contentAlign": "center",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "<b>הדף נחיתה הזה נבנה</b>",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "text": "<b>כדי שלא תעשה קרקס בעתיד הקרוב ושלא תעבד כספיך</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#form1-a\" data-toolbar=\"-mbrBtnMove\">לקבלת מידע בטלפון</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.goldteam-il.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">לאתר עם תוכן</a>"
+              }
+            ]
+          },
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
+          "articleLayout": false,
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-e",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "22px",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-title B": {
+              "font-size": "60px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-text B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "countdown": "2018/10/08",
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/05.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#c0392b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#e74c3c",
+            "overlayOpacity": 0.75
+          },
+          "title": "Time remaining",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "countdown2",
+          "_anchor": "countdown2-7"
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "text-transform": "uppercase",
+              "margin-top": "40px"
+            },
+            "P": {
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#333333",
+            "bgText": "Join Financial Revolution!",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#d35400",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "אל תתנו להאבולוציה <br>הפיננסית לעקוף אותכם<br>",
+          "text": "<b>במילוי פרטים ישנה אופציה למייל, אבל אנחנו מבקשים דפקה את המספר הטלפון שלך. אנחנו אנשי עסקים ולא נשחק משחקים. אנחנו לא נשלח עוד מיילים נוספים כדי לגרום לך לתת מספר טלפון שלך, פשוט אם תשאיר טלפון, נגיע עליך ישירות ונביא לך חדשות שכמעת פיספסת אותם</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">אני רוצה לשמוע</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "animated-bg1",
+          "_anchor": "animated-bg1-i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {},
+            ".mbr-section-text": {
+              "font-size": "18px"
+            },
+            ".mbr-section-text B": {
+              "color": "#333333"
+            },
+            ".mbr-section-title B": {
+              "color": "#666666"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "<b>CONTACT FORM</b>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "<b>כדי שנוכל לתת לך הסבר מלא, נא תשיר מספר טלפון</b>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">שלח</a>",
+          "form": {
+            "action": "dropandsale@gmail.com",
+            "alerts": {
+              "success": "תודה רבה שהחלטת לתת לנו צ'אנס לעזור לך"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "שמך הפרטי"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "אימייל - לא חובה"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "טלפון"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "בבקשה, לרשום את מיקום של העסק"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-a"
+        },
+        {
+          "_inherit": "soundcloud1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "sound": "https://soundcloud.com/wowamusik/blue-sky-cc0",
+            "autoplay": true,
+            "fullWidth": true,
+            "bgColor": "#eeeeee"
+          },
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_afterNavbarItem": false,
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F264645015&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F264645015",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<b>Music by Wowa &amp; Chris Rede</b>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-l"
+        }
+      ]
+    }
+  }
+}
