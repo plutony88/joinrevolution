@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 25,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -84,9 +84,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "title": "<b>מדובר על שינוי כלכלי</b><br>",
                 "overlay": true,
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.4",
                 "text": "<b>... שמתקרב בשקט</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dollar-499481-1920-1920x1357.jpg",
@@ -99,7 +100,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "title": "<b>עסקים שמזהים אותו, זוכים ובגדול</b>",
                 "overlay": true,
-                "overlayOpacity": "0.6",
+                "overlayOpacity": "0.7",
                 "text": "<b>והעסקים האלה עלולים לרווח כספיים בזכות מידע זאת</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#000000"
@@ -115,9 +116,9 @@
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "title": "<b>אנשי שיווק שלנו מתמותתים מהכמויות של עסקים המצטרפים</b>",
                 "overlay": true,
-                "text": "<b>... שרק גובר וגובר</b><br>",
+                "text": "<b>...&nbsp;שרק גוברות וגדולות</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.3",
                 "overlayColor": "#000000"
               },
               {
@@ -139,7 +140,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/pc-1207886-1920-1920x1280.jpg",
                 "contentAlign": "left",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -147,14 +148,15 @@
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "title": "<b>​הזמן מתקתק, וזה מגיע</b>",
                 "overlay": true,
-                "overlayOpacity": "0.3",
-                "text": "<b>המכונה הזאת מופעלת, מתקדמת וצוברת מהירות&nbsp;<br>והכי חשוב, שבעוד חודשיים, היא תביא את המהפך</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "overlayOpacity": "0.5",
+                "text": "<b>המכונה הזאת מופעלת, מתקדמת וצוברת מהירות</b><br><b>והכי חשוב, שבעוד חודשיים, היא תביא את המהפך הכלכלי</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/utah-95032-1920-1920x1280.jpg",
                 "contentAlign": "center",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -242,10 +244,10 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/bank-note-941246-1920-1920x1440.jpg",
+            "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#333333",
+            "bgColor": "#000000",
             "bgText": "Join Financial Revolution!",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#d35400",
@@ -256,11 +258,11 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayOpacity": "0.8"
           },
           "title": "אל תתנו להאבולוציה <br>הפיננסית לעקוף אותכם<br>",
           "text": "<b>במילוי פרטים ישנה אופציה למייל, אבל אנחנו מבקשים דפקה את המספר הטלפון שלך. אנחנו אנשי עסקים ולא נשחק משחקים. אנחנו לא נשלח עוד מיילים נוספים כדי לגרום לך לתת מספר טלפון שלך, פשוט אם תשאיר טלפון, נגיע עליך ישירות ונביא לך חדשות שכמעת פיספסת אותם</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://www.goldteam-il.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">אני רוצה לשמוע</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content5-o\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">אני רוצה לשמוע</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -297,7 +299,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#dddddd",
             "overlay": false,
             "overlayColor": "#ecf0f1",
             "overlayOpacity": 0.5
@@ -342,6 +344,38 @@
           ],
           "_name": "form1",
           "_anchor": "form1-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/packs-163497-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.8
+          },
+          "title": "054 - 22 66 949",
+          "caption": "<p>Elias</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-o",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_inherit": "soundcloud1",
